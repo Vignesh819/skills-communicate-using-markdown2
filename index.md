@@ -8,19 +8,24 @@ _this is italic txt_
 
 
 *this is also a italic txt*
+
 __this a bold text__
+
 **this is also a bold txt**
+
 _to use a \_\ literal_
 
 
-![]
+![link to images]
+
+
 [link to sites]
 
-1.first
-1.second 
-1.third 
+|.first
+|.second 
+|.third 
 
-_first 
+-first 
   -nested
 -second 
 -third
