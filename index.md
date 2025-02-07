@@ -4,35 +4,35 @@
 #### h4 header
 ##### h5 header 
 ###### h6 header 
-_ this is italic txt _
+_this is italic txt_
 
 
-* this is also a italic txt *
-__ this a bold text __
-** this is also a bold txt **
-_ to use a \*\ literal _
+*this is also a italic txt*
+__this a bold text__
+**this is also a bold txt**
+_to use a \_\ literal_
 
 
-! [link to image]
+![link to image]
 [link to sites]
 
-1. first
+1.first
 1.second 
 1.third 
 
-_ first 
+_first 
   -nested
 -second 
 -third
 
-First | Second 
-- | - 
-1 | 3
-4 | 5 
+First|Second 
+-|- 
+1|3
+4|5 
 
-> this is a quoted text 
+>this is a quoted text 
 
-```
+```java
 public class solution {
 public static void main (String [] args){
 System.out.println("this is a code ");
