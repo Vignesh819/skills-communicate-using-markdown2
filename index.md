@@ -13,7 +13,7 @@ __this a bold text__
 _to use a \_\ literal_
 
 
-![link to image]
+![]
 [link to sites]
 
 1.first
