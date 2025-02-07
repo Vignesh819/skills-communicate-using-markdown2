@@ -21,9 +21,9 @@ _to use a \_\ literal_
 
 [link to sites]
 
-|.first
-|.second 
-|.third 
+1.first
+2.second 
+3.third 
 
 -first 
   -nested
